@@ -1,3 +1,5 @@
+//目標:輸入相對應的分子式(ex:C6H5OH)，算出對應的分子量
+
 #include <iostream>
 #include <map>
 #include<string>
